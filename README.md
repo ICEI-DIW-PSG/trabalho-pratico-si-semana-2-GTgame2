@@ -3,9 +3,9 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Thiago Batista de Souza Marcelino
+- Matricula: 886878
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![alt text]({E0E4921F-5862-4409-AEDD-78609737D058}.png)

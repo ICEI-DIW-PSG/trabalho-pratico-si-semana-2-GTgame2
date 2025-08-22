@@ -1,0 +1,55 @@
+body {
+    font-family: Arial;
+    line-height: 1.2;
+    background-color: antiquewhite;
+}
+
+.title h1 {
+    font-size: 30px;
+}
+
+.title h3 {
+    font-size: 20px;
+}
+
+.contato p {
+    font-size: 15px;
+}
+.experiencia {
+    font-size: 15px;
+}
+.experiencia h2 {
+    font-size: 24px;
+}
+.experiencia h3 {
+    font-size: 16px;
+    margin-left: 10px;
+}
+.experiencia p {
+    font-size: 14px;
+    margin-left: 20px;
+}
+.Objetivo h2 {
+    font-size: 24px;
+}
+.Objetivo p {
+    font-size: 14px;
+}
+.formacao h2 {
+    font-size: 24px;
+}
+.formacao h3 {
+    font-size: 16px;
+    margin-left: 10px;
+}
+.formacao p {
+    font-size: 14px;
+    margin-left: 20px;
+}
+.rodapé {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+}
